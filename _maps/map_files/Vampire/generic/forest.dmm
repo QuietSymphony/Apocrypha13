@@ -9049,18 +9049,6 @@
 "OJ" = (
 /turf/closed/wall/vampwall/brick_old,
 /area/vtm/interior/forest/bawn_shelter)
-"OL" = (
-/obj/effect/turf_decal/darkpack/rough/corner{
-	dir = 1
-	},
-/obj/structure/spacevine{
-	opacity = 1;
-	name = "thick vines"
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "cave3"
-	},
-/area/vtm/interior/forest/cave)
 "OM" = (
 /obj/effect/turf_decal/darkpack/dirt{
 	dir = 4
@@ -33186,7 +33174,7 @@ hN
 xO
 EH
 bi
-OL
+VK
 Gc
 Gc
 EH
@@ -53580,7 +53568,7 @@ Sy
 Sy
 xO
 bi
-Gc
+VK
 VK
 pf
 pf
@@ -53778,7 +53766,7 @@ xO
 Sa
 xO
 bi
-uk
+Gc
 vv
 vv
 vv
